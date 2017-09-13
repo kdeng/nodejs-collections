@@ -1,0 +1,8 @@
+.articles {
+
+    .articles__item {
+        margin: 10px 0;
+        background-color: #eee;
+    }
+
+}

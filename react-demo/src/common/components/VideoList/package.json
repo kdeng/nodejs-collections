@@ -1,0 +1,6 @@
+{
+    "name": "VideoList",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./VideoList.js"
+}

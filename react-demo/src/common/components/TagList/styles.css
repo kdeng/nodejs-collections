@@ -1,0 +1,8 @@
+.ContentTagList {
+    margin: 5px 0 10px;
+}
+
+.ContentTagList_ContentTagItem {
+    float: left;
+    margin-right: 5px;
+}

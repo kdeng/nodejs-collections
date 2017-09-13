@@ -1,0 +1,64 @@
+[
+    {
+        "assetId": 82677637,
+        "headline": "From the editor",
+        "writeOff": "",
+        "indexHeadline": "FROM THE EDITOR",
+        "socialHeadline": "",
+        "byline": "",
+        "urlSlug": "from-the-editor",
+        "notes": "",
+        "indexIntroText": "intro text 2 august",
+        "href": "/services/content/v1/article/82677637",
+        "activated": false,
+        "hideIdentifier": false,
+        "hideByline": true,
+        "excludeFromWeb": false,
+        "excludeFromTablets": false,
+        "sponsored": false,
+        "suppressTimeStamp": false,
+        "status": "READY",
+        "brandsAndCategories": [
+            {
+                "brands": [],
+                "categories": []
+            }
+        ],
+        "relatedAssets": [
+            {
+                "type": "RelatedImage",
+                "assetId": 82283629,
+                "href": "/services/content/v1/image/82283629",
+                "captionOverride": "20072016. News. Photo:Farifax NZ. North Shore Times news director Jodi Yeats.",
+                "imageTypes": [
+                    {
+                        "rank": 0,
+                        "imageCrop": "",
+                        "imageTypeId": "StuffLandscapeSixteenByNine"
+                    },
+                    {
+                        "rank": 0,
+                        "imageCrop": "",
+                        "imageTypeId": "StuffThumbnail"
+                    }
+                ]
+            }
+        ],
+        "tags": [],
+        "onTime": "2016-07-31T22:26:41.000Z",
+        "offTime": null,
+        "creationTime": "2016-07-31T22:26:41.000Z",
+        "lastBigModificationTime": "2016-08-01T19:24:00.880Z",
+        "firstPublishTime": null,
+        "id": 82677637,
+        "body": "<p>Like many people, I went straight online when the Unitary Plan came out to find out how it affected my property. I breathed a sigh of relief - my favourite parks are all there and I can cope with development plans for my area. After four year of work, Auckland Council has done a good job.</p>\n\n<p>However, I remain concerned that Auckland will still be a great place to live. That means retaining heritage areas (tick), views to volcanic cones (tick, but not&nbsp;for Mt Victoria), keeping our parks and buying new ones (mainly tick), managing traffic impacts (big ?) and not building apartments along our beachfronts, among other things. I am opposed to the removal of demolition protection for pre-1940 buildings, because they are part of our heritage. Let's hope there's some more tweaking.</p>\n\n<p><strong>- Jodi Yeats</strong></p>",
+        "sources": [
+            {
+                "source": "Stuff"
+            }
+        ],
+        "keywords": []
+    },
+    
+    
+]

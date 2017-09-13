@@ -1,0 +1,228 @@
+{
+    "paging": {
+        "next": "http://staging-nzcms.fairfaxmedia.co.nz/services/content/v1/article?q=(indexIntroText=match=\"messi\")&offset=45&limit=45&orderby=assetId&direction=asc",
+        "previous": null
+    },
+    "total": 10,
+    "queryResults": [
+        {
+            "assetId": 1188020,
+            "href": "http://www.houzz.co.nz/photos/20443143/mount-maunganui-home-traditional-kitchen-auckland",
+            "headline": "Mount Maunganui Home",
+            "relatedAssets" : [
+                {
+                    "assetId" : 11880201,
+                    "href": "http://st.hzcdn.com/simgs/1981daf004765cd9_4-7205/traditional-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/traditional",
+                            "tagId" : "ffx-tags:nz/style/traditional",
+                            "title" : "traditional"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/auckland",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/auckland",
+                            "title" : "auckland"
+                        }
+                    ]
+                },
+                {
+                    "assetId" : 11880202,
+                    "href": "http://st.hzcdn.com/simgs/e50144d904765de8_4-2495/traditional-dining-room.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/traditional",
+                            "tagId" : "ffx-tags:nz/style/traditional",
+                            "title" : "traditional"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/auckland",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/auckland",
+                            "title" : "auckland"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "assetId": 1188021,
+            "href": "http://www.houzz.co.nz/photos/44965820/pukenui-rd-heritage-kitchen-renovation-traditional-kitchen-auckland",
+            "headline": "Pukenui Rd Heritage Kitchen Renovation",
+            "relatedAssets" : [
+                {
+                    "assetId" : 11880211,
+                    "href": "http://st.hzcdn.com/simgs/9c5127530668d28a_4-0605/traditional-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/traditional",
+                            "tagId" : "ffx-tags:nz/style/traditional",
+                            "title" : "traditional"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/auckland",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/auckland",
+                            "title" : "auckland"
+                        }
+                    ]
+                },
+                {
+                    "assetId" : 11880212,
+                    "href": "http://st.hzcdn.com/simgs/af51f72a0668d273_4-8051/traditional-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/traditional",
+                            "tagId" : "ffx-tags:nz/style/traditional",
+                            "title" : "traditional"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/auckland",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/auckland",
+                            "title" : "auckland"
+                        }
+                    ]
+                },
+                {
+                    "assetId" : 11880213,
+                    "href": "http://st.hzcdn.com/simgs/f5b1083f0668d279_4-8053/traditional-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/traditional",
+                            "tagId" : "ffx-tags:nz/style/traditional",
+                            "title" : "traditional"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/auckland",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/auckland",
+                            "title" : "auckland"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "assetId": 1188022,
+            "href": "http://www.houzz.co.nz/photos/20979161/kitchen-contemporary-kitchen-hamilton",
+            "headline": "Kitchen",
+            "relatedAssets": [
+                {
+                    "assetId" : 11880221,
+                    "href": "http://st.hzcdn.com/simgs/6fd12c9a048f6853_4-7149/contemporary-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/contemporary",
+                            "tagId" : "ffx-tags:nz/style/contemporary",
+                            "title" : "contemporary"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/hamilton",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/hamilton",
+                            "title" : "hamilton"
+                        }
+                    ]
+                },
+                {
+                    "assetId" : 11880222,
+                    "href": "http://st.hzcdn.com/simgs/7d71c904048f6812_4-4442/contemporary-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/contemporary",
+                            "tagId" : "ffx-tags:nz/style/contemporary",
+                            "title" : "contemporary"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/hamilton",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/hamilton",
+                            "title" : "hamilton"
+                        }
+                    ]
+                },
+                {
+                    "assetId" : 11880223,
+                    "href": "http://st.hzcdn.com/simgs/96318d14048f67f8_4-4572/contemporary-bathroom.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/contemporary",
+                            "tagId" : "ffx-tags:nz/style/contemporary",
+                            "title" : "contemporary"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/bathroom",
+                            "tagId" : "ffx-tags:nz/room/bathroom",
+                            "title" : "bathroom"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/hamilton",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/hamilton",
+                            "title" : "hamilton"
+                        }
+                    ]
+                }
+                
+            ]
+
+        },
+        {
+            "assetId": 1188023,
+            "href": "http://www.houzz.co.nz/photos/51043427/contemporary-eclectic-industrial-style-kitchen-eclectic-kitchen-wellington",
+            "headline": "Contemporary Eclectic Industrial Style Kitchen",
+            "relatedAssets": [
+                {
+                    "assetId": 11880231,
+                    "href": "http://st.hzcdn.com/simgs/32e1f5ae06ec94a7_4-4652/eclectic-kitchen.jpg",
+                    "contentTags": [
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/style/eclectic",
+                            "tagId" : "ffx-tags:nz/style/eclectic",
+                            "title" : "eclectic"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/room/kitchen",
+                            "tagId" : "ffx-tags:nz/room/kitchen",
+                            "title" : "kitchen"
+                        },
+                        {
+                            "path" : "/etc/tags/ffx-content-tags/nz/location/new-zealand/new-zealand/wellington",
+                            "tagId" : "ffx-tags:nz/new-zealand/new-zealand/wellington",
+                            "title" : "wellington"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

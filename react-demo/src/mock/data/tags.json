@@ -1,0 +1,60 @@
+{
+    "Room": [
+        "Kitchen",
+        "Bathroom",
+        "Bedroom",
+        "Living",
+        "Outdoor",
+        "Home Office"
+    ],
+    "Style": [
+        "Contemporary",
+        "Eclectic",
+        "Modern",
+        "Traditional",
+        "Beach Style",
+        "Tropical",
+        "Country",
+        "Transitional",
+        "Industrial",
+        "Scandinavian",
+        "Shabby Chic",
+        "Midcentury",
+        "Victorian",
+        "Mediterranean",
+        "Arts & Crafts",
+        "Asian"
+    ],
+    "Location": {
+        "New Zealand": [
+            "New Zealand",
+            "Auckland",
+            "Christchurch",
+            "Dunedin",
+            "Hamilton"
+        ],
+        "Australia": [
+            "Australia",
+            "Gold Coast",
+            "Brisbane"
+        ]
+    },
+    "Budget": [
+        "$",
+        "$$",
+        "$$$",
+        "$$$$"
+    ],
+    "Size": [
+        "Compact",
+        "Medium",
+        "Large",
+        "Expansive"
+    ],
+    "Layout": [
+        "L-shape",
+        "U-shape",
+        "Galley",
+        "Single-wall"
+    ]
+}

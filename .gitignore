@@ -1,0 +1,21 @@
+
+# complie class
+dist
+node
+node_modules
+bower_dependencies
+
+# System files
+.DS_Store
+
+# IDE profiles
+.idea
+*.iml
+.classpath
+.project
+.settings
+.vscode
+codeship.aes
+
+# Security related
+credentials.yml

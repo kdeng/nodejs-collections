@@ -1,0 +1,50 @@
+
+html, body {
+    margin: 0;
+    font-size: 16px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    background-color: #f1f1f1;
+}
+
+h1.h1 {
+    margin: 10px 0 5px;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+h2.h2 {
+    margin: 5px 0;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+h2.h2--header {
+    color: #F97F85;
+    border-bottom: 4px solid #F97F85;
+}
+
+h2.h2 > span.h2__morelink {
+    font-size: 1rem;
+    line-height: 1rem;
+    margin-top: 0.5rem;
+}
+
+.media {
+
+}
+.media-left {
+
+}
+.media-body {
+
+}
+.media-heading {
+    font-size: 0.85rem;
+    font-weight: 400;
+}
+
+.media-body .ContentTagList {
+    font-size: 0.75rem;
+    margin: 0 0 5px;
+}

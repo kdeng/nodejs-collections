@@ -1,0 +1,22 @@
+.treeView {
+
+    font-size: 0.85rem;
+
+    .treeView__arrow {
+
+        padding-right: 5px;
+
+        &:after {
+            content: '+';
+            float: left;
+            margin-right: 5px;
+        }
+
+    }
+
+    .treeView__list > .treeView {
+        margin-left: 20px;
+    }
+
+
+}

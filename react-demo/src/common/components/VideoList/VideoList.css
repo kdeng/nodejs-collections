@@ -1,0 +1,26 @@
+.video__list {
+
+    background: #eee;
+
+    .video__item {
+
+        border: 0 solid red;
+
+        border-width: 2px 0;
+
+        margin: 10px 0;
+
+        .movie__title {
+            font-size: 1rem;
+            color: green;
+        }
+
+        .movie__releaseYear {
+            font-size: 0.8rem;
+            color: grey;
+
+        }
+
+    }
+
+}

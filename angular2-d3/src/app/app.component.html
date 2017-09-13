@@ -1,0 +1,17 @@
+<div class="columns">
+  <div class="column">
+    <div class="tabs is-centered">
+      <ul>
+        <li [routerLink]="['home']" routerLinkActive="is-active"><a>Home</a></li>
+        <li [routerLink]="['pie-chart']" routerLinkActive="is-active"><a>Pie-chart</a></li>
+        <li [routerLink]="['stacked-bar-chart']" routerLinkActive="is-active"><a>Stacked bar chart</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="columns">
+  <div class="column">
+    <router-outlet></router-outlet>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+.relatedContent {
+
+    &__title {
+        margin: 10px 0;
+        color: lightsalmon;
+        font-size: 1.8rem;
+        border-bottom: 4px solid lightsalmon;
+    }
+
+}
+
+
+.relatedContent__thumbnail {
+    max-height: 100px;
+}
