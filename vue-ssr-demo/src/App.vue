@@ -1,5 +1,7 @@
 <template>
-  <div>this is new app</div>
+  <div>
+    this is new app
+  </div>
 </template>
 
 <script>
