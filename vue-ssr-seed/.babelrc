@@ -1,0 +1,15 @@
+{
+    "presets": [
+      [
+        "@babel/preset-env", {
+          "modules": false,
+          "debug": false
+        }
+      ]
+    ],
+    "plugins": [
+      // "transform-export-extensions",
+      // "@babel/plugin-syntax-dynamic-import"
+      // "dynamic-import-node"
+    ]
+  }
