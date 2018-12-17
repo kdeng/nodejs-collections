@@ -1,17 +1,11 @@
-import {
-  createApp
-} from './main'
+import { createApp } from './main'
 
 export default context => {
   // since there could potentially be asynchronous route hooks or components,
   // we will be returning a Promise so that the server can wait until
   // everything is ready before rendering.
   return new Promise((resolve, reject) => {
-    const {
-      app,
-      router,
-      store
-    } = createApp()
+    const { app, router, store } = createApp()
 
     // set server-side router's location
     router.push(context.url)
@@ -23,13 +17,12 @@ export default context => {
 
       // no matched routes, reject with 404
       if (!matchedComponents.length) {
-        return reject({
-          code: 404
-        })
+        return reject({ code: 404 })
       }
 
       // call `asyncData()` on all matched route components
       Promise.all(matchedComponents.map(component => {
+        // asyncData() is only for Page Layout
         if (component.asyncData) {
           return component.asyncData({
             store,

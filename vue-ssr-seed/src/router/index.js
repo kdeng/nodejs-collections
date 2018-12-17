@@ -3,13 +3,25 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-export function createRouter () {
+export function createRouter() {
   return new Router({
     mode: 'history',
     routes: [
-      { path: '/', component: () => import('../components/Home.vue') },
-      { path: '/about', component: () => import('../components/About.vue') },
-      { path: '/item/:id', component: () => import('../components/Item.vue') }
+      {
+        name: 'home',
+        path: '/',
+        component: () => import('../components/Home.vue')
+      },
+      {
+        name: 'about',
+        path: '/about',
+        component: () => import('../components/About.vue')
+      },
+      {
+        name: 'item',
+        path: '/item/:id',
+        component: () => import('../components/Item.vue')
+      }
     ]
   })
 }

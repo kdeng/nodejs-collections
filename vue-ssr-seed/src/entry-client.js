@@ -1,8 +1,8 @@
-import Vue from 'vue'
+// import Vue from 'vue'
 import { createApp } from './main'
 
 // client-specific bootstrapping logic...
-Vue.config.devtools = true
+// Vue.config.devtools = true
 
 const { app, router, store } = createApp()
 
