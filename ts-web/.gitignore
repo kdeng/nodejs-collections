@@ -1,0 +1,26 @@
+# ide settings
+.idea/
+.projects
+.DS_Store
+*.iml
+.vscode/
+.settings/
+.classpath
+
+# Java
+*.jar
+*.class
+target/
+
+# Node
+node_modules/
+
+# release
+release.properties
+released-pom.xml
+
+# build
+dist/
+
+# test
+coverage/

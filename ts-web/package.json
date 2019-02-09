@@ -1,0 +1,23 @@
+{
+  "name": "ts-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main/index.js",
+  "scripts": {
+    "dev": "node .",
+    "build": "tsc",
+    "predev": "npm run build",
+    "prebuild": "tslint -c tslint.json -p tsconfig.json --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^10.12.24",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
