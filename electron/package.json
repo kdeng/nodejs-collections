@@ -13,6 +13,6 @@
         "electron-packager": "^12.1.1"
     },
     "dependencies": {
-        "electron": "^2.0.8"
+        "electron": "^9.1.0"
     }
 }
